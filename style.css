@@ -1,0 +1,26 @@
+.box {
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 600px;
+    border-spacing: 0;
+}
+.red {
+    margin: 0;
+    padding: 0;
+    background-color: #781D1A;
+    width: 200px;
+    height: 200px;
+}
+.white {
+    margin: 0;
+    padding: 0;
+    background-color: ##FFFFFF;
+    width: 200px;
+    height: 200px;
+    border: 0;
+}
+img {
+    width: 157px;
+    margin: 10%;
+}
